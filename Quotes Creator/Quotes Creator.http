@@ -1,0 +1,6 @@
+@Quotes_Creator_HostAddress = http://localhost:5124
+
+GET {{Quotes_Creator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
